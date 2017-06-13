@@ -1,6 +1,10 @@
 Survey of Motion Tracking Methods Based on Inertial Sensors: A Focus on Upper Limb Human Motion
 Alessandro Filippeschi et al. 2017 doi:10.3390/s17061257
 
+Contacts:
+- a.filippeschi@sssup.it
+- e.ruffaldi@sssup.it
+
 Content
 -------
 
