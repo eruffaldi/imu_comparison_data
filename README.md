@@ -1,3 +1,20 @@
+Survey of Motion Tracking Methods Based on Inertial Sensors: A Focus on Upper Limb Human Motion
+Alessandro Filippeschi et al. 2017 doi:10.3390/s17061257
+
+Content
+-------
+
+1) data from data capture experiment (see Ethical Approval in paper)
+2) code for the analysis
+
+Code
+-----------------------------
+
+Use Data: 
+- UpS4.mat for the calibration
+- UpS10.mat for analysis
+
+Code: starts with MATLAB main.m
 
 Matlab file of IMU+Vicon data
 -----------------------------
