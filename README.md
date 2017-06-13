@@ -1,5 +1,6 @@
-Survey of Motion Tracking Methods Based on Inertial Sensors: A Focus on Upper Limb Human Motion
-Alessandro Filippeschi et al. 2017 doi:10.3390/s17061257
+
+
+This is the dataset and the data associated to the Practical Review paper "Survey of Motion Tracking Methods Based on Inertial Sensors: A Focus on Upper Limb Human Motion" published on Sensors in 2017 doi:10.3390/s17061257
 
 Contacts:
 - a.filippeschi@sssup.it
@@ -77,4 +78,18 @@ Base Poses
 
 These N-Pose and T-Pose are stored inside each sessions at the beginning
 
-	
+# References
+
+Please cite the following paper if you use the data or code:
+
+ Filippeschi, A.; Schmitz, N.; Miezal, M.; Bleser, G.; Ruffaldi, E.; Stricker, D.	
+ "Survey of Motion Tracking Methods Based on  Inertial Sensors: A Focus on Upper Limb Human Motion".
+ Sensors 2017, 17, 1257.
+
+The UKF method discussed in the review is from the same authors:
+
+ Peppoloni, Lorenzo, et al. 
+ "A novel 7 degrees of freedom model for upper limb kinematic reconstruction based on wearable sensors".
+ Intelligent Systems and Informatics (SISY), IEEE, 2013.
+
+ 
