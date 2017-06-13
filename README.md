@@ -82,14 +82,14 @@ These N-Pose and T-Pose are stored inside each sessions at the beginning
 
 Please cite the following paper if you use the data or code:
 
-  Filippeschi, A.; Schmitz, N.; Miezal, M.; Bleser, G.; Ruffaldi, E.; Stricker, D.	
-  "Survey of Motion Tracking Methods Based on  Inertial Sensors: A Focus on Upper Limb Human Motion".
-  Sensors 2017, 17, 1257.
+	Filippeschi, A.; Schmitz, N.; Miezal, M.; Bleser, G.; Ruffaldi, E.; Stricker, D.	
+	"Survey of Motion Tracking Methods Based on  Inertial Sensors: A Focus on Upper Limb Human Motion".
+	Sensors 2017, 17, 1257.
 
 The UKF method discussed in the review is from the same authors:
 
-  Peppoloni, Lorenzo, et al. 
-  "A novel 7 degrees of freedom model for upper limb kinematic reconstruction based on wearable sensors".
-  Intelligent Systems and Informatics (SISY), IEEE, 2013.
+	Peppoloni, Lorenzo, et al. 
+	"A novel 7 degrees of freedom model for upper limb kinematic reconstruction based on wearable sensors".
+	Intelligent Systems and Informatics (SISY), IEEE, 2013.
 
  
