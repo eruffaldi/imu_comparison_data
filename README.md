@@ -3,8 +3,8 @@
 This is the dataset and the data associated to the Practical Review paper "Survey of Motion Tracking Methods Based on Inertial Sensors: A Focus on Upper Limb Human Motion" published on Sensors in 2017 [doi:10.3390/s17061257](http://www.mdpi.com/1424-8220/17/6/1257)
 
 Contacts:
-- a.filippeschi@sssup.it
-- e.ruffaldi@sssup.it
+- [Alessandro Filippeschi](https://github.com/alessandrofilippeschi)
+- [Emanuele Ruffaldi](https://github.com/eruffaldi)
 
 Content
 -------
