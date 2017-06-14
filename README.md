@@ -1,6 +1,6 @@
 
 
-This is the dataset and the data associated to the Practical Review paper "Survey of Motion Tracking Methods Based on Inertial Sensors: A Focus on Upper Limb Human Motion" published on Sensors in 2017 [doi:10.3390/s17061257](http://www.mdpi.com/1424-8220/17/6/1257)
+This is the data and the code associated to the data-base review paper "Survey of Motion Tracking Methods Based on Inertial Sensors: A Focus on Upper Limb Human Motion" published on Sensors in 2017 [doi:10.3390/s17061257](http://www.mdpi.com/1424-8220/17/6/1257) in which we have compared 5 algorithms over a dataset comparing inertial data with Vicon based data.
 
 Contacts:
 - [Alessandro Filippeschi](https://github.com/alessandrofilippeschi)
@@ -86,7 +86,7 @@ Please cite the following paper if you use the data or code:
 	"Survey of Motion Tracking Methods Based on  Inertial Sensors: A Focus on Upper Limb Human Motion".
 	Sensors 2017, 17, 1257.
 
-The UKF method discussed in the review is from the same authors:
+The UKF-based method discussed in the review is the following:
 
 	Peppoloni, Lorenzo, et al. 
 	"A novel 7 degrees of freedom model for upper limb kinematic reconstruction based on wearable sensors".
